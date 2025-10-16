@@ -1,5 +1,5 @@
 // Replace this with your Render backend URL
-const backendURL = "https://your-render-app-name.onrender.com/";
+const backendURL = "https://airbnb-6-u57l.onrender.com";
 
 async function checkBackend() {
   try {
